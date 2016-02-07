@@ -31,7 +31,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,9 +48,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.6712131"
-     inkscape:cx="483.66483"
-     inkscape:cy="141.18129"
+     inkscape:zoom="0.59086306"
+     inkscape:cx="1806.2042"
+     inkscape:cy="329.78525"
      inkscape:current-layer="svg2"
      inkscape:window-x="1366"
      inkscape:window-y="0"
@@ -1806,7 +1806,9 @@
   </g>
   <g
      id="trail-path"
-     transform="translate(1304.2782,5.9785156e-5)">
+     transform="translate(1304.2782,5.9785156e-5)"
+     display="none"
+     style="display:none">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 579.51916,639.16531 0,2.69265 c 0,0.0997 -0.0705,0.22867 0,0.29919 0.0705,0.0705 0.22867,-0.0705 0.29919,0 0.012,0.012 0,1.08686 0,1.19673 l 0,3.88939 0,1.19674 0,0.29918 c 0,0.0997 0.0997,0.29919 0,0.29919 -0.0997,0 -0.0997,-0.29919 0,-0.29919 0.62256,0 0.12038,0.41957 0.29918,0.59837 0.0264,0.0264 1.15567,0 0.29918,0 l 1.79511,0.89755 c 0.19945,0 0.40914,-0.0631 0.59836,0 0.1338,0.0446 0.17304,0.23611 0.29919,0.29918 0.1784,0.0892 0.41997,-0.0892 0.59837,0 0.12614,0.0631 0.17303,0.23612 0.29918,0.29919 0.0892,0.0446 0.19946,0 0.29918,0 l 0.29919,0 1.49592,0 c 0.10987,0 1.18469,0.012 1.19673,0 0.0705,-0.0705 -0.0705,-0.22867 0,-0.29919 0.0705,-0.0705 0.22867,0.0705 0.29919,0 0.0705,-0.0705 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22867,0.0705 0.29918,0 0.0705,-0.0705 -0.0705,-0.22867 0,-0.29919 0.0705,-0.0705 0.22867,0.0705 0.29919,0 0.19937,-0.19937 -0.19938,-0.39899 0,-0.59836 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0705,-0.22867 0,-0.29919 0.0705,-0.0705 0.22867,0.0705 0.29919,0 0.0705,-0.0705 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0705,-0.22867 0,-0.29919 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0446,-0.20998 0,-0.29918 0.12615,-0.25229 0.47222,-0.34607 0.59837,-0.59837 0.0446,-0.0892 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22867,0.0705 0.29918,0 0.14104,-0.14104 -0.14103,-0.45733 0,-0.59837 0.0705,-0.0705 0.22867,0.0705 0.29919,0 0.0705,-0.0705 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0446,-0.20999 0,-0.29919 0.0631,-0.12614 0.23611,-0.17303 0.29919,-0.29918 0.0446,-0.0892 -0.0446,-0.20999 0,-0.29918 0.0631,-0.12615 0.23611,-0.17304 0.29918,-0.29919 0.0446,-0.0892 -0.0705,-0.22866 0,-0.29918 0.14104,-0.14104 0.45733,0.14103 0.59837,0 0.14103,-0.14104 -0.14104,-0.45733 0,-0.59837 0.0705,-0.0705 0.20998,0.0446 0.29918,0 1.24513,-0.62257 -0.31984,0.0206 0.29919,-0.59837 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.044,-0.044 -0.0352,-0.89755 0,-0.89755 0.0997,0 -0.0997,0.29918 0,0.29918 0.49613,0 0.20978,-0.41956 0.29918,-0.59836 0.0631,-0.12615 0.19946,-0.19946 0.29919,-0.29919 l 0.29918,-0.29918 c 0.0997,0 0.22867,0.0705 0.29919,0 0.14103,-0.14104 -0.14104,-0.45733 0,-0.59837 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.14104,-0.14104 -0.19946,-0.59837 0,-0.59837 0.0997,0 0,0.19946 0,0.29919 -3.3487,0.58322 0.19946,-1.59565 -0.29918,-2.09429 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.0705,-0.0705 0.0446,-0.20998 0,-0.29918 -0.0631,-0.12615 -0.23611,-0.17304 -0.29918,-0.29919 -0.0446,-0.0892 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.0705,-0.0705 0.0705,-0.22867 0,-0.29919 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.0705,-0.0705 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.0705,-0.0705 0.0446,-0.20998 0,-0.29918 -0.0631,-0.12615 -0.23611,-0.17304 -0.29919,-0.29919 -0.0446,-0.0892 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.0705,-0.0705 0.0705,-0.22867 0,-0.29918 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.14103,-0.14104 0.14104,-0.45734 0,-0.59837 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.14104,-0.14104 0.0892,-0.41997 0,-0.59837 -0.12615,-0.25229 -0.47222,-0.34607 -0.59837,-0.59837 -0.0446,-0.0892 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.0705,-0.0705 0.0446,-0.20999 0,-0.29919 -0.0693,-0.13854 -1.02077,-1.02077 -1.19674,-1.19673 -0.0997,-0.0997 -0.23611,-0.17304 -0.29918,-0.29919 -0.0446,-0.0892 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.0705,-0.0705 0.0446,-0.20998 0,-0.29918 -0.12615,-0.2523 -0.47223,-0.34608 -0.59837,-0.59837 -0.0446,-0.0892 0.0705,-0.22867 0,-0.29918 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.19948,-0.19949 0.19948,-0.39889 0,-0.59837 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.14104,-0.14104 0.14104,-0.45733 0,-0.59837 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.19948,-0.19948 0.19948,-0.39889 0,-0.59837 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.072,-0.072 0.072,-1.12474 0,-1.19673 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.14104,-0.14104 0.14103,-0.45733 0,-0.59837 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.0705,-0.0705 0,-0.19946 0,-0.29918 l 0,-0.29919 0,-2.09429 c 0,-0.13474 0.0455,-0.8065 0,-0.89755 -0.0631,-0.12614 -0.23611,-0.17303 -0.29918,-0.29918 -0.0593,-0.11863 0.0612,-0.83639 0,-0.89755 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.1496,-0.14959 0.14959,-0.74796 0,-0.89755 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.0819,-0.0819 0.0811,-1.03444 0,-1.19674 -0.0631,-0.12615 -0.23611,-0.17304 -0.29918,-0.29918 -0.094,-0.18805 0.094,-1.0087 0,-1.19674 -0.0631,-0.12615 -0.23611,-0.17304 -0.29919,-0.29918 -0.0892,-0.1784 0.0892,-0.41997 0,-0.59837 -0.12614,-0.2523 -0.47222,-0.34607 -0.59836,-0.59837 -0.0892,-0.1784 0.14103,-0.45733 0,-0.59837 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.19937,-0.19937 0.19938,-0.39899 0,-0.59836 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.14959,-0.1496 0.14959,-0.74796 0,-0.89756 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.19948,-0.19948 0.19948,-0.39888 0,-0.59836 -0.0705,-0.0705 -0.22867,0.0705 -0.29919,0 -0.14103,-0.14104 0.14104,-0.45733 0,-0.59837 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.01,-0.01 0,-0.82499 0,-0.89755 0,-0.79783 0.0997,0.0997 -0.29919,-0.29919 -0.0136,-0.0136 0,-1.35485 0,-1.49592 0,-0.14106 0.0136,-1.48236 0,-1.49592 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.14959,-0.14959 0.14959,-0.74796 0,-0.89755 -0.0705,-0.0705 -0.22867,0.0705 -0.29918,0 -0.0705,-0.0705 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.29919,0.0997 -0.29919,0 0,-0.0997 0.29919,0.0997 0.29919,0 0,-0.14104 -0.23611,-0.17304 -0.29919,-0.29919 -0.0446,-0.0892 0.0705,-0.22866 0,-0.29918 -0.0705,-0.0705 -0.22866,0.0705 -0.29918,0 -0.0705,-0.0705 0,-0.19945 0,-0.29918 0,-0.0997 -0.0997,-0.29919 0,-0.29919 0.0997,0 0,0.39892 0,0.29919 l 0,-0.59837 0,-1.7951 0,-2.09429 c 0,-0.13474 -0.56907,-0.7317 -0.52357,-0.82275 0.0631,-0.12615 0.23611,-0.17304 0.29918,-0.29919 0.0908,-0.18167 -0.50218,-0.97767 -0.41138,-1.15934 0.0631,-0.12615 -0.21267,-0.62176 -0.14959,-0.74796 0.0387,-0.0774 -0.41137,-0.94728 -0.41137,-1.15935 0,-0.20809 0.18699,-1.94469 0.18699,-1.94469 0,0 -0.0952,-0.89825 0.41137,-1.38372 l 0.89755,-0.86016 0,-0.59837 -0.48617,0.44878 0.56097,-0.41138 c 0.0804,-0.059 -0.1453,-0.56525 -0.0748,-0.63576 0.0705,-0.0705 0.22867,0.0705 0.29919,0 0.0705,-0.0705 -0.0705,-0.22867 0,-0.29919 0.0705,-0.0705 0.22866,0.0705 0.29918,0 0.0705,-0.0705 -0.0705,-0.22866 0,-0.29918 0.0705,-0.0705 0.22867,0.0705 0.29918,0 0.0705,-0.0705 0,-0.19946 0,-0.29919 l 0,-0.29918 c -73.30004,103.51763 -49.66452,213.91648 -49.66452,213.91648 l 8.37715,-17.05348 c 0,0 -6.21943,-35.90676 -17.20307,-51.45963 -9.44695,-13.37693 -36.35084,-29.91839 -36.35084,-29.91839 0,0 -70.85819,-18.10094 -246.52751,24.53308 -525.75262,127.59742 -761.12377,254.3063 -761.12377,254.3063 0,0 -69.19687,27.68721 -151.43012,47.03591 -82.23325,19.3488 -177.50288,30.3591 -220.07453,44.8751 -85.45312,29.1376 -139.33797,82.3371 -139.33797,82.3371 0,0 8.6288,18.134 69.26109,7.4796 61.12671,-10.7413 294.24735,-71.505 294.24735,-71.505"
@@ -1816,87 +1818,89 @@
   </g>
   <g
      id="points"
-     transform="translate(1304.2782,5.9785156e-5)">
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     display="none"
+     style="display:none">
+    <circle
+       style="display:inline;fill:#405b54;stroke-width:0.4165867"
        id="Berlin"
-       cx="579.44434"
-       cy="638.79132"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1883.5869"
+       cy="638.42828"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Kummersdorf"
-       cx="579.9679"
-       cy="648.5896"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1883.9608"
+       cy="649.0119"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Neuhardenberg"
-       cx="594.55322"
-       cy="639.91321"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1898.4713"
+       cy="639.88684"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Peenemünde"
-       cx="583.03455"
-       cy="591.96906"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1887.7006"
+       cy="591.8678"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Oberammergau"
-       cx="533.07086"
-       cy="806.93268"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1837.2881"
+       cy="806.53223"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Munich"
-       cx="541.5976"
-       cy="789.05646"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1846.4132"
+       cy="789.17957"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Kransberg Castle"
-       cx="487.9689"
-       cy="707.60364"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="1792.7097"
+       cy="708.10077"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Washington DC"
-       cx="-519.83197"
-       cy="986.36823"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       display="inline"
+       cx="784.4986"
+       cy="986.38013"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="El Paso"
-       cx="273.90283"
-       cy="1160.8407"
-       rx="0.79708976"
-       ry="0.77518249" />
-    <ellipse
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       display="inline"
+       cx="274.59833"
+       cy="1160.3312"
+       r="2.4087043" />
+    <circle
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:#405b54;fill-opacity:1;stroke:#000000;stroke-width:0.4165867;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        id="Huntsville"
-       cx="637.20349"
-       cy="1096.8646"
-       rx="0.79708976"
-       ry="0.77518249" />
+       display="inline"
+       cx="637.83813"
+       cy="1096.8647"
+       r="2.4087043" />
   </g>
   <g
      id="camera-path"
-     transform="translate(1304.2782,5.9785156e-5)">
+     transform="translate(1304.2782,5.9785156e-5)"
+     display="none"
+     style="display:none">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 577.12569,638.86612 c 0.59837,11.06981 5.98368,10.47144 5.98368,10.47144 0,0 4.50416,-0.90908 6.28287,-2.24388 2.31355,-1.73617 5.08612,-7.03082 5.08612,-7.03082 0,0 2.59292,-20.74342 0.74796,-28.72165 -1.84497,-7.97824 -11.81777,-19.14777 -11.81777,-19.14777 0,0 -27.12634,66.67372 -35.3037,101.57292 -8.70294,37.14231 -14.36082,113.54028 -14.36082,113.54028 l 9.2747,-21.24205 c 0,0 -4.87774,-34.84856 -15.55756,-49.36534 -9.80125,-13.32257 -39.49227,-28.42247 -39.49227,-28.42247 0,0 -341.85964,57.08507 -508.666637,102.92895 -169.963293,46.71132 -499.092753,174.73307 -499.092753,174.73307 0,0 -361.17751,83.4691 -446.32137,112.6198 -85.46634,29.2612 -64.56274,62.3569 -64.56274,62.3569 0,0 7.7289,24.6826 68.43834,13.9868 60.7094,-10.6958 295.81807,-78.1618 295.81807,-78.1618"
        id="path5212"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscscsccscscscsc" />
+       inkscape:connector-curvature="0" />
   </g>
   <style
      id="style3785"
